@@ -18,10 +18,6 @@ void print_string(const char* str) {
 }
 
 void kernel_main() {
-    print_string("Hello, World!");
-}
-
-void _start() {
-    kernel_main();
-    while (1) {}
+    print_string("Hi!");
+    print_string("hi2!");
 }

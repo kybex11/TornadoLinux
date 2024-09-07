@@ -1,1 +1,1 @@
-qemu-system-x86_64 -cdrom mykernel.iso
+qemu-system-i386 -cdrom mykernel.iso
